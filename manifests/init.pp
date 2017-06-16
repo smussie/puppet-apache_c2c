@@ -23,7 +23,8 @@
 # == Example ===
 #
 #   include apache
-#
+# test and test and more test
+
 class apache_c2c (
   $root            = $apache_c2c::params::root,
   $service_ensure  = 'running',
